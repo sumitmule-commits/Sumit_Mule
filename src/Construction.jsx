@@ -32,7 +32,7 @@ export default function Construction() {
           <hr className="my-8 border-slate-600/90 border-2" />
 
           <p className="text-lg md:text-xl leading-relaxed text-slate-700 font-medium">
-            My 2025 portfolio is under construction—while that's happening, you can find me on
+            My 2026 portfolio is under construction—while that's happening, you can find me on
             <a
               href="https://www.linkedin.com/in/sumit-mule/"
               target="_blank"
